@@ -31,8 +31,8 @@ Frontend Mentor challenges are a great way to improve coding skills by building 
 
 ### 🔗 Links
 
-- **Solution URL:** [Add solution URL here](https://github.com/Michael-Okorie/qr-code-card.git)
-- **Live Site URL:** [Add live site URL here](https://michael-okorie.github.io/qr-code-card/)
+- **Solution URL:** [https://github.com/Michael-Okorie/qr-code-card.git]
+- **Live Site URL:** [https://michael-okorie.github.io/qr-code-card/]
 
 ---
 
