@@ -1,7 +1,13 @@
+@font-face {
+    font-family: 'Outfit';
+    src: url(./assets/Outfit/Outfit-VariableFont_wght.ttf);
+}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Outfit';
 }
 :root{
     --White: hsl(0, 0%, 100%);
